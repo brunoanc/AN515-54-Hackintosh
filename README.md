@@ -3,7 +3,7 @@
 
 macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
 
-<img src="https://github.com/PowerBall253/AN515-54-Hackintosh/blob/main/screenshot.png?raw=true" alt="macOS Monterey">
+<img src="https://github.com/PowerBall253/AN515-54-Hackintosh/blob/master/screenshot.png?raw=true" alt="macOS Monterey">
 
 ## Configuration
 
