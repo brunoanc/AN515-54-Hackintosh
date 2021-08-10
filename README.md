@@ -30,10 +30,10 @@ macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
 - [x] Native hotkey support with Fn keys
 - [x] iServices (Messages, FaceTime, etc.)
 
-## What's not working (Will never work) ⚠️
+## What's not working
 
-- [ ] GTX 1650
-- [ ] HDMI port, since it's connected to the GTX 1650.
+- [ ] GTX 1650 (macOS does not support recent Nvidia GPUs).
+- [ ] HDMI port (since it's connected to the GTX 1650).
 
 ## Installation
 
