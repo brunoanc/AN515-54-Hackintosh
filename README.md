@@ -39,11 +39,17 @@ macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
 
 ### First-time installation
 
+- Set-up the BIOS configuration:
+  - Boot to BIOS by pressing F2 during boot.
+  - In the Main screen, enable F12 boot menu, disable Fast Boot, then press Ctrl+S and change the new SATA mode option to AHCI.
+  - In the Boot screen, disable secure boot.
+  - Finally, go to the Exit screen and select "Exit saving changes".
 - Read through the following tutorial to create a bootable USB, and then place the EFI folder inside it:
    - https://dortania.github.io/OpenCore-Install-Guide/
 - You should add Serial Number, UUID, MLB and ROM details to Config -> PlatformInfo -> Generic if you want to get iServices working as explained [here](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html).
 
 ### Post Install
+
 - Clone the [ComboJack repo](https://github.com/hackintosh-stuff/ComboJack) and run the installer inside the `ComboJack_Installer` folder to get the jack port working correctly.
 - Run the following commands for sleep wake:
   ```
@@ -54,6 +60,7 @@ macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
   ```
 
 ## Credits
+
 - Thanks to [Hoang63X](https://github.com/Hoang63X/AN515-54-51X1-Hackintosh) for providing their configuration, which helped me solve various issues.
 - Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleALC](https://github.com/acidanthera/AppleALC), [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg),  [Lilu](https://github.com/acidanthera/Lilu), [OcBinaryData](https://github.com/acidanthera/OcBinaryData), [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [VoodooInput](https://github.com/acidanthera/VoodooInput), [VoodooPS2](https://github.com/acidanthera/VoodooPS2), and [WhateverGreen](https://github.com/acidanthera/WhateverGreen).
 - Thanks to [alexandred](https://github.com/alexandred) for providing [VoodooI2C](https://github.com/alexandred/VoodooI2C).
