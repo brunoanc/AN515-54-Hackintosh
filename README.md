@@ -59,6 +59,12 @@ macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
   sudo pmset -a proximitywake 0
   ```
 
+## Disable CFG Lock (Advanced users only)
+
+To disable CFG Lock, follow [this](https://www.reddit.com/r/hackintosh/comments/hz2rtm/cfg_lockunlocking_alternative_method/) guide. Note that you'll be modifying the BIOS, so be very careful or you could end up bricking your device. If you're not sure about something, do NOT do it.
+
+After following the guide, disable Kernel -> Quirks -> AppleXcpmCfgLock and you're done.
+
 ## Credits
 
 - Thanks to [Hoang63X](https://github.com/Hoang63X/AN515-54-51X1-Hackintosh) for providing their configuration, which helped me solve various issues.
