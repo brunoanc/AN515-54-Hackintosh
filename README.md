@@ -58,6 +58,7 @@ macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
   sudo pmset -a standby 0
   sudo pmset -a proximitywake 0
   ```
+- If dual-booting with Windows, follow [this](https://www.tonymacx86.com/threads/fix-incorrect-time-in-windows-osx-dual-boot.133719/) guide to fix time.
 
 ## Disable CFG Lock (Advanced users only)
 
