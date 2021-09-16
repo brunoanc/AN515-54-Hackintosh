@@ -1,7 +1,7 @@
 
 # Acer Nitro 5 AN515-54 Hackintosh
 
-macOS Monterey Beta 6 on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
+macOS Monterey Beta 6 on Acer Nitro 5 AN515-54 with OpenCore 0.7.3 EFI folder.
 
 <img src="https://github.com/PowerBall253/AN515-54-Hackintosh/blob/master/screenshot.png?raw=true" alt="macOS Monterey">
 
