@@ -1,9 +1,9 @@
 
 # Acer Nitro 5 AN515-54 Hackintosh
 
-macOS Monterey on Acer Nitro 5 AN515-54 with OpenCore 0.8.4 EFI folder.
+macOS Ventura on Acer Nitro 5 AN515-54 with OpenCore 0.8.7 EFI folder.
 
-<img src="https://github.com/PowerBall253/AN515-54-Hackintosh/blob/master/screenshot.png?raw=true" alt="macOS Monterey">
+<img src="https://github.com/PowerBall253/AN515-54-Hackintosh/blob/master/screenshot.png?raw=true" alt="macOS Ventura">
 
 ## Configuration
 
