@@ -944,6 +944,28 @@
 				<key>FullNvramAccess</key>
 				<false/>
 				<key>Name</key>
+				<string>ResetNvramEntry</string>
+				<key>Path</key>
+				<string>ResetNvramEntry.efi</string>
+				<key>RealPath</key>
+				<false/>
+				<key>TextMode</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Auxiliary</key>
+				<true/>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<false/>
+				<key>Name</key>
 				<string>OpenShell</string>
 				<key>Path</key>
 				<string>OpenShell.efi</string>
@@ -984,6 +1006,10 @@
 				<string>en-US:0</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
+				<key>bluetoothInternalControllerInfo</key>
+				<data>AAAAAAAAAAAAAAAAAAA=</data>
+				<key>bluetoothExternalDongleFailed</key>
+				<data>AA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
