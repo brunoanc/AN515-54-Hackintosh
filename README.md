@@ -1,7 +1,7 @@
 
 # Acer Nitro 5 AN515-54 Hackintosh
 
-macOS Ventura on Acer Nitro 5 AN515-54 with OpenCore 0.8.7 EFI folder.
+macOS Ventura on Acer Nitro 5 AN515-54 with OpenCore 0.9.3 EFI folder.
 
 <img src="https://github.com/PowerBall253/AN515-54-Hackintosh/blob/master/screenshot.png?raw=true" alt="macOS Ventura">
 
